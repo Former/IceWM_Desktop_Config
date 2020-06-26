@@ -5,4 +5,6 @@
 
 setxkbmap -option grp:alt_caps_toggle
 
-sleep 2 && idesk &
+sleep 1 && idesk &
+
+sleep 1 && volumeicon &
