@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # start network manager
-#    sleep 1 && nm-applet &
+sleep 1 && nm-applet &
 
 setxkbmap -option grp:alt_caps_toggle
 
