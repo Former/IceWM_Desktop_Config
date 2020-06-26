@@ -1,0 +1,10 @@
+table Icon
+  Caption: Skype
+  Command: /usr/bin/skypeforlinux
+  Icon: /usr/share/icons/hicolor/32x32/apps/skypeforlinux.png
+  Width: 48
+  Height: 48
+  X: 30
+  Y: 330
+end
+

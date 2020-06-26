@@ -1,0 +1,10 @@
+table Icon
+  Caption: QuiteRSS
+  Command: /usr/bin/quiterss
+  Icon: /usr/share/icons/hicolor/32x32/apps/quiterss.png
+  Width: 48
+  Height: 48
+  X: 29
+  Y: 233
+end
+

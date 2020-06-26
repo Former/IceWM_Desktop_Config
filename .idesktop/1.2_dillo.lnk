@@ -1,0 +1,10 @@
+table Icon
+  Caption: Dillo
+  Command: /usr/bin/dillo
+  Icon: /usr/share/pixmaps/dillo.xpm
+  Width: 48
+  Height: 48
+  X: 29
+  Y: 123
+end
+

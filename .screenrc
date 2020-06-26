@@ -1,0 +1,54 @@
+# autodetach on 
+# startup_message off 
+# hardstatus alwayslastline 
+# shelltitle 'bash'
+
+# hardstatus string '%{gk}[%{wk}%?%-Lw%?%{=b kR}(%{W}%n*%f %t%?(%u)%?%{=b kR})%{= w}%?%+Lw%?%? %{g}][%{d}%l%{g}][ %{= w}%Y/%m/%d %0C:%s%a%{g} ]%{W}'
+
+startup_message off
+
+mousetrack on
+
+
+# bind e eval split 'focus down' screen
+
+# split horizontally creating new shell prompt
+bind - eval split 'focus down' screen
+
+# split vertically creating new shell prompt
+bind | eval 'split -v' 'focus right' screen
+
+# switch between layouts with Alt+Number
+# bindkey "^[0" select 0
+bindkey "^[1" select 1
+bindkey "^[2" select 2
+bindkey "^[3" select 3
+bindkey "^[4" select 4
+bindkey "^[5" select 5
+bindkey "^[6" select 6
+bindkey "^[7" select 7
+bindkey "^[8" select 8
+bindkey "^[9" select 9
+
+# switch between pane with Alt+Arrow
+# bindkey "^[^[OB" focus down
+# bindkey "^[^[OA" focus up
+# bindkey "^[^[OC" focus right
+# bindkey "^[^[OD" focus left
+
+
+# ctrlA then right-arrow-key jumps active cursor one pane to the right:
+bindkey "^A^[OC" focus right
+
+# ctrlA then left-arrow-key jumps active cursor one pane to the left:
+bindkey "^A^[OD" focus left
+
+# ctrlA then up-arrow-key jumps active cursor one pane above current:
+bindkey "^A^[OA" focus up
+
+# ctrlA then up-arrow-key jumps active cursor one pane below current:
+bindkey "^A^[OB" focus down
+
+
+hardstatus alwayslastline
+hardstatus string '%{= kG}[ %{G}%H %{g}][%= %{=kw}%?%-Lw%?%{r}(%{W}%n*%f%t%?(%u)%?%{r})%{w}%?%+Lw%?%?%= %{g}][%{B}%Y-%m-%d %{W}%c %{g}]'

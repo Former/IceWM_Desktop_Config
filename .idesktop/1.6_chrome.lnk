@@ -1,0 +1,10 @@
+table Icon
+  Caption: Chrome
+  Command: /usr/bin/chromium-browser
+  Icon: /usr/share/icons/hicolor/128x128/apps/chromium-browser.png
+  Width: 48
+  Height: 48
+  X: 30
+  Y: 530
+end
+

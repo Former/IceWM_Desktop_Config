@@ -1,0 +1,10 @@
+table Icon
+  Caption: Falkon
+  Command: /usr/bin/falkon
+  Icon: /usr/share/icons/hicolor/32x32/apps/falkon.png
+  Width: 48
+  Height: 48
+  X: 29
+  Y: 423
+end
+

@@ -1,0 +1,5 @@
+ClientWindowMouseActions=0
+WorkspaceNames=" 1 ", " 2 ", " 3 ", " 4 "
+TimeFormat="%H:%M"
+#"xclock -name icewm -title Clock"
+ClockCommand="gnome-calendar" 

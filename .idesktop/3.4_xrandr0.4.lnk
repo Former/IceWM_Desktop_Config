@@ -1,0 +1,10 @@
+table Icon
+  Caption: Brightness 0.4
+  Command: /usr/bin/xrandr --output VGA-1 --brightness 0.4
+  Icon: /usr/share/icons/hicolor/32x32/apps/csd-xrandr.png
+  Width: 48
+  Height: 48
+  X: 230
+  Y: 330
+end
+

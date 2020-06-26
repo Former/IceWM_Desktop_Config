@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# start network manager
+#    sleep 1 && nm-applet &
+
+setxkbmap -option grp:alt_caps_toggle
+
+sleep 2 && idesk &
