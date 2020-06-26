@@ -1,6 +1,6 @@
 table Icon
   Caption: Brightness 0.6
-  Command: /usr/bin/xrandr --output VGA-1 --brightness 0.6
+  Command: /usr/bin/xrandr --output LVDS-1 --brightness 0.6
   Icon: /usr/share/icons/hicolor/32x32/apps/csd-xrandr.png
   Width: 48
   Height: 48
