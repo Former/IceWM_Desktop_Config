@@ -1,4 +1,4 @@
-prog "Web Browser" /usr/share/icons/gnome/22x22/apps/web-browser.png /usr/lib/firefox/firefox
+prog "Web Browser" /usr/share/icons/gnome/22x22/apps/web-browser.png dillo
 prog "Terminal" /usr/share/icons/gnome/22x22/apps/gnome-terminal.png lxterminal
 prog "File Manager" /usr/share/icons/gnome/22x22/apps/file-manager.png pcmanfm
 prog "Calculator" /usr/share/icons/gnome/22x22/apps/calc.png calculator

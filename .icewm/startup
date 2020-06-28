@@ -9,5 +9,5 @@ sleep 1 && idesk &
 
 sleep 1 && volumeicon &
 
-sleep 1 && redshift 
+sleep 1 && redshift-gtk &
 #sleep 5 && xrandr --output LVDS-1 --brightness 0.6
