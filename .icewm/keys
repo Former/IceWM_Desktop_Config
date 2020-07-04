@@ -35,5 +35,6 @@ switchkey "Super+p" icewm-menu-xrandr
 
 # Run youtube player from clipboard url
 key "Super+o" /home/alexei/.icewm/clip_lx_mpv_ytdl_player.bash
+key "Alt+Ctrl+o" /home/alexei/.icewm/clip_lx_mpv_ytdl_player.bash
 
 key "Alt+Ctrl+Shift+s" gnome-screenshot

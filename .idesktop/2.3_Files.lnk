@@ -1,0 +1,10 @@
+table Icon
+  Caption: Files
+  Command: /usr/bin/pcmanfm
+  Icon: /usr/share/icons/hicolor/32x32/apps/nemo.png
+  Width: 48
+  Height: 48
+  X: 230
+  Y: 230
+end
+

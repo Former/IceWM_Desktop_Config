@@ -1,0 +1,10 @@
+table Icon
+  Caption: SMTube
+  Command: /usr/bin/smtube 
+  Icon: /usr/share/icons/hicolor/32x32/apps/smtube.png
+  Width: 48
+  Height: 48
+  X: 430
+  Y: 130
+end
+
