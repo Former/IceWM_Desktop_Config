@@ -4,7 +4,7 @@ table Icon
   Icon: /usr/share/icons/hicolor/32x32/apps/nm-device-wired.png
   Width: 48
   Height: 48
-  X: 119
-  Y: 33
+  X: 230
+  Y: 30
 end
 

@@ -1,0 +1,10 @@
+table Icon
+  Caption: VirtualBox
+  Command: /usr/bin/virtualbox 
+  Icon: /usr/share/icons/hicolor/32x32/apps/virtualbox.png
+  Width: 48
+  Height: 48
+  X: 430
+  Y: 30
+end
+
