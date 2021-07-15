@@ -38,3 +38,12 @@ key "Super+o" /home/alexei/.icewm/clip_lx_mpv_ytdl_player.bash
 key "Alt+Ctrl+o" /home/alexei/.icewm/clip_lx_mpv_ytdl_player.bash
 
 key "Alt+Ctrl+Shift+s" gnome-screenshot
+
+#key «Alt+Left» icesh -f left top sizeto 50% 100%
+#key «Alt+Right» icesh -f right top sizeto 50% 100%
+
+#  Tiles all windows from top to bottom maximized horizontally.
+KeySysTileHorizontal="Alt+Shift+F3"
+
+#  Tiles all windows from left to right maximized vertically.
+KeySysTileVertical="Alt+Shift+F2"

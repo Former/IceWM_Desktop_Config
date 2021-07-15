@@ -3,3 +3,8 @@ WorkspaceNames=" 1 ", " 2 ", " 3 ", " 4 "
 TimeFormat="%H:%M"
 #"xclock -name icewm -title Clock"
 ClockCommand="gnome-calendar" 
+
+MenuMouseTracking=1 
+SmartPlacement=1 
+SnapMove=1 
+TaskBarShowMailboxStatus=0 
