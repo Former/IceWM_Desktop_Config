@@ -1,5 +1,7 @@
-prog "Web Browser" /usr/share/icons/gnome/22x22/apps/web-browser.png palemoon
+prog "Web Browser" /usr/share/icons/gnome/22x22/apps/web-browser.png firefox
 prog "Terminal" /usr/share/icons/gnome/22x22/apps/gnome-terminal.png lxterminal
+prog "Calculator" /usr/share/icons/gnome/22x22/apps/calc.png gnome-calculator
+prog "Telegram" /usr/share/icons/gnome/22x22/apps/preferences-system-sharing.png telegram-desktop
+prog "Skype" /usr/share/icons/hicolor/32x32/apps/skypeforlinux.png skypeforlinux
 prog "File Manager" /usr/share/icons/gnome/22x22/apps/file-manager.png pcmanfm
-prog "Calculator" /usr/share/icons/gnome/22x22/apps/calc.png calculator
 

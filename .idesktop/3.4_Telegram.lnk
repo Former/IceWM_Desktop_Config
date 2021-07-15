@@ -1,0 +1,9 @@
+table Icon
+  Caption: Telegram-desktop
+  Command: telegram-desktop
+  Icon: /usr/share/icons/gnome/22x22/apps/preferences-system-sharing.png
+  Height: 48
+  X: 430
+  Y: 330
+end
+

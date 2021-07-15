@@ -1,0 +1,9 @@
+table Icon
+  Caption: Firefox
+  Command: /usr/bin/firefox
+  Icon: /usr/share/icons/hicolor/32x32/apps/firefox.png
+  Height: 48
+  X: 430
+  Y: 230
+end
+
